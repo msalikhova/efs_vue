@@ -1,6 +1,6 @@
 /* eslint-disable */
 import axios from 'axios';
-const API_URL = 'https://efsrest8380.herokuapp.com/'
+const API_URL = 'https://efsrest8380.herokuapp.com/';
 
 export class APIService {
   constructor() {
